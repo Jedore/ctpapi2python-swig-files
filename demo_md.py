@@ -10,7 +10,7 @@ import sys
 
 import thostmduserapi as mdapi
 
-# 前置地址 参考 http://121.37.80.177:50080/detail.html  SimNow
+# 前置地址 参考 http://openctp.cn  SimNow
 FrontAddr = ""
 # 注意选择有效合约, 没有行情可能是过期合约或者不在交易时间内的原因
 # instruments = ["AP410"]

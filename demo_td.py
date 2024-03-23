@@ -4,7 +4,7 @@ import os
 
 import thosttraderapi as tdapi
 
-# 前置地址 参考 http://121.37.80.177:50080/detail.html  SimNow
+# 前置地址 参考 http://openctp.cn  SimNow
 FrontAddr = ""
 
 # 登录信息 需要在 SimNow https://www.simnow.com.cn/ 平台注册账号
